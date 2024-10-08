@@ -48,9 +48,9 @@ This project is a PayTM-like web application developed using the MERN stack (Mon
 
 ### Clone the Repository
 
-git clone https://github.com/syedahmedullah14/PayTM-Project.git
+git clone https://github.com/walianitin/wallet.git
 
-		cd PayTM-Project
+		cd wallet
 
 ### Backend Setup
 
